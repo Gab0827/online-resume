@@ -1,0 +1,99 @@
+body {
+	font-family: Garamond, sans-serif;
+	background-color: white;
+	margin-left: 50px;
+	background-image: url("bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+.Resume{
+	max-width: 600px;
+	margin: 50px auto;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(240,240,240);
+	border-style: solid;
+	background-color: rgb(210,210,210);
+	border-radius: 20px; 
+
+
+
+}
+.Skills{
+	font-family: Georgia;
+	text-align: center;
+	margin-right: 300px;
+
+	
+
+
+
+}
+
+h1{
+	margin-bottom: 10px;
+	text-align: left;
+	text-shadow: 2px 2px 4px;
+
+}
+h2{
+	margin-top: 20px
+	margin-bottom: 10px;
+	text-shadow: 2px 2px 4px;
+	
+}
+h4{
+	
+	margin-top: 5px;
+	text-align:left;
+}
+h5{
+	
+	margin-top: 5px;
+	text-align: center;
+}
+p{
+	line-height: 1.6;
+	border-style: solid;
+	border-radius: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	
+}
+
+
+img{
+	width: 150px;
+	height: 150px;
+	border-radius: 100px;
+	border-style: solid;
+
+
+}
+.Me{
+	text-align: center;
+	margin-right: 350px;
+}
+.Objectives{
+
+	text-align: center;
+	margin-left: 350px;
+	margin-bottom: 10px;
+	margin-top: -700px;
+
+	
+	
+}
+.Personal{
+	text-align: center;
+	margin-left: 300px;
+	margin-bottom: 50px;
+}
+.Education{
+	margin-bottom: 50px;
+	text-align: center;
+	margin-left: 300px;
+
+
+}
